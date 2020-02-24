@@ -1,0 +1,1 @@
+This file is for capgemini sprint1. It contains the  use case of project "Go Outdoor" named "Retailer Inventory Management".
